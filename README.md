@@ -1,6 +1,4 @@
-CommonCash
-
-A group trip cash management app where everyone contributes money to one designated person, who then handles all payments. This app helps the payer efficiently track and record expenses and monitor the remaining balance, ensuring seamless financial management throughout the trip.
+CommonCash:A group trip cash management app where everyone contributes money to one designated person, who then handles all payments. This app helps the payer efficiently track and record expenses and monitor the remaining balance, ensuring seamless financial management throughout the trip.
 
 Features
 
